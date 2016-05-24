@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File name:      s_riding_navi.ino
-* Description:    modifying the arduino code of S-RIDING
+* Description:    [Navigation] the arduino code of S-RIDING
 * Author:       junkyu park
 * Date:         2016.04.26
 *****************************************************************************/
